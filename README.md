@@ -1,4 +1,4 @@
-# E‑COMMERCE‑PROJECT‑FRONTEND
+#  E‑COMMERCE‑PROJECT‑FRONTEND
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Code Size](https://img.shields.io/github/languages/code-size/yourusername/E-COMMERCE-PROJECT-FRONTEND-2C8C)]()
@@ -56,4 +56,3 @@ cd E-COMMERCE-PROJECT-FRONTEND-2C8C
 npm install
 # or
 yarn install
-
